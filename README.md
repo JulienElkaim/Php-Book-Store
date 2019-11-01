@@ -1,9 +1,10 @@
 Projet Base de données 2018
 ===========================
-<br>
-*__School Project: January 2018__*
+<br>  
 
-Book Store application using Php as a back-end language and MySQL as the database SGBD.
+_**School Project: January 2018**_
+<br>
+Book Store application using Php for back-end purpose and MySQL as the database SGBD.
 
 
 ____
